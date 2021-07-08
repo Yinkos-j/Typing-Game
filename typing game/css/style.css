@@ -1,0 +1,29 @@
+h1{
+    color: goldenrod !important;
+    font-size: 60px !important;
+}
+h2{
+    text-align: center !important;
+}
+body{
+    background-color: black !important;
+}
+input{
+    height: 50px;
+    outline: none;
+    border: 2px solid goldenrod;
+
+}
+input{
+    background: black;
+    color: white;
+    font-size: 25px !important;
+    text-align: center;
+}
+.time{
+    float: right;
+    color: white;
+}
+h4{
+    color: white;
+}
